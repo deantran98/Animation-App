@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="hw5_code:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hw5_code_jar</output-path>
+    <root id="archive" name="hw5_code.jar">
+      <element id="module-output" name="hw5_code" />
+    </root>
+  </artifact>
+</component>

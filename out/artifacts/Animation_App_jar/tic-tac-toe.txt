@@ -1,0 +1,36 @@
+canvas 0 0 600 600
+shape R2 rectangle
+motion R2 0 0 200 300 10 0 0 0     16 0 200 300 10 0 0 0
+
+shape RR1 rectangle
+motion RR1 2 130 130 50 50 0 0 255     14 130 130 50 50 0 0 255
+motion RR1 14 130 130 50 50 0 0 255     16 130 130 50 50 0 255 0
+
+shape C3 circle
+motion C3 12 30 30 50 50 255 0 0     16 30 30 50 50 255 0 0
+
+shape R3 rectangle
+motion R3 0 100 0 10 300 0 0 0     16 100 0 10 300 0 0 0
+
+shape R4 rectangle
+motion R4 0 200 0 10 300 0 0 0     16 200 0 10 300 0 0 0
+
+shape RR3 rectangle
+motion RR3 10 130 30 50 50 0 0 255     14 130 30 50 50 0 0 255
+motion RR3 14 130 30 50 50 0 0 255     16 130 30 50 50 0 255 0
+
+shape RR2 rectangle
+motion RR2 6 230 130 50 50 0 0 255     16 230 130 50 50 0 0 255
+
+shape RR4 rectangle
+motion RR4 14 130 230 50 50 0 0 255     16 130 230 50 50 0 255 0
+
+shape C1 circle
+motion C1 4 230 30 50 50 255 0 0     16 230 30 50 50 255 0 0
+
+shape R1 rectangle
+motion R1 0 0 100 300 10 0 0 0     16 0 100 300 10 0 0 0
+
+shape C2 circle
+motion C2 8 30 130 50 50 255 0 0     16 30 130 50 50 255 0 0
+
